@@ -1,5 +1,6 @@
 package Task29thJan;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 public class tocheckvowelorconso {
     public static void main(String[] args) {
@@ -9,10 +10,14 @@ public class tocheckvowelorconso {
         if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ) {
             System.out.println("vowel");
         }
-        else
+        else if (ch <= 'a'|| ch >='z') {
+            System.out.println("Enter a valid input");
+
+        } else
         {
             System.out.println("consonant");
         }
+        scanner.close();
 
 
     }
