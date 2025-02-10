@@ -11,9 +11,10 @@ public class Palindromeprogram {
         int temp = input_number;
         while(temp!=0)
         {
-            x = x*10 + temp%10;
-           temp = temp/10;
+            x = x*10 + temp%10;// Extract last digit and append to x
+           temp = temp/10;// Remove last digit
         }
+        // Compare reversed number with original
         if(x==input_number)
         {
             System.out.println(input_number+" is a palindrome");
