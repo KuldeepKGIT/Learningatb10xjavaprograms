@@ -1,4 +1,4 @@
-package followingpractice;
+package practice;
 
 public class m_static_with_parmeter {
     public static void add(int n){

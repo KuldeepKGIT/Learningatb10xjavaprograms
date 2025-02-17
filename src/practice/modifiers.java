@@ -1,4 +1,4 @@
-package followingpractice;
+package practice;
 
 public class modifiers {
     public static void add(){

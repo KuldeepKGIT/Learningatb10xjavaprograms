@@ -1,4 +1,4 @@
-package followingpractice;
+package practice;
 
 public class constructor_with_para {
      constructor_with_para (int a){

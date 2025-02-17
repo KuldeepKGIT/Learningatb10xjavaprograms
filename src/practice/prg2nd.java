@@ -1,8 +1,5 @@
-package followingpractice;
+package practice;
 
-import ex_02_java.Lab013_if_else;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class prg2nd {

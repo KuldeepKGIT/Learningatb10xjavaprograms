@@ -1,4 +1,4 @@
-package followingpractice;
+package practice;
 
 public class prg3rd {
     public static void main(String[] args) {

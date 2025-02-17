@@ -1,4 +1,4 @@
-package followingpractice;
+package practice;
 
 public class non_static_method {
     public void add(){
