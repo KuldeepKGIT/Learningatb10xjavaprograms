@@ -10,7 +10,7 @@ public class Lab016_switchs {
         switch (n) {
             case 1:
                 System.out.println("Monday");
-                break;
+               break;
             case 2:
                 System.out.println("Tuesday");
                 break;
