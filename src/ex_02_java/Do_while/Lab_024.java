@@ -8,6 +8,7 @@ public class Lab_024 {
         System.out.println("Enter the Number!");
         int num = scanner.nextInt();
         int sum = 0;
+
         do{
             int i = num%10;
             sum = sum+i;
