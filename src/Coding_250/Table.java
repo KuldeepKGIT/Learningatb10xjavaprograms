@@ -11,6 +11,8 @@ public class Table {
         for(int i= 1; i<=10; i++){
             int result = n*i;
 //            System.out.printf(n+" X "+i+ " = "+result);
+
+
             System.out.printf("%d X %d = %d\n",n,i,result);
 
         }
