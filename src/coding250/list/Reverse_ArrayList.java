@@ -1,4 +1,4 @@
-package Coding_250.list;
+package coding250.list;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

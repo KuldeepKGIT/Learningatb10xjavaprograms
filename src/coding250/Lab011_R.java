@@ -1,4 +1,4 @@
-package Coding_250;
+package coding250;
 
 public class Lab011_R {
     public static void main(String[] args) {

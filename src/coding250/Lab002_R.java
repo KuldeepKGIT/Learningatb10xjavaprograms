@@ -1,6 +1,5 @@
-package Coding_250;
+package coding250;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab002_R {

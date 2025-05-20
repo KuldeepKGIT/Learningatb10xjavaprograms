@@ -1,4 +1,4 @@
-package Coding_250;
+package coding250;
 
 public class Lab0018_R {
     public int[] countVowelsCons(String str) {

@@ -1,4 +1,4 @@
-package Coding_250;
+package coding250;
 
 import java.util.Scanner;
 
