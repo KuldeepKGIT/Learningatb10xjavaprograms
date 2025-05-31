@@ -1,3 +1,5 @@
+package Task_31st_Jan;
+
 import java.util.Scanner;
 
 public class Armstrongnumprogram {

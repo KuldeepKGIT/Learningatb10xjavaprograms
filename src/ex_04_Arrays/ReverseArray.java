@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class ReverseArray {
     public static void main(String[] args) {
         int [] array = {1, 2, 3, 4, 5}; //declaration and initialization of an array
+
         int [] revArray = new int [array.length];
         int index = 0;
         System.out.print("reversed array: ");
