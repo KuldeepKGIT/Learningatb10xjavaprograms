@@ -8,8 +8,6 @@ public class ReverseArray {
         System.out.println("Input Array: "+ Arrays.toString(inputArr));
         System.out.println(Arrays.toString(reverseArr(inputArr)));
 
-
-
     }
     public static int[] reverseArr(int[] array){
         int[] newArr = new int[array.length];
