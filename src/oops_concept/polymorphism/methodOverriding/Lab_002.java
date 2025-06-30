@@ -10,6 +10,7 @@ public class Lab_002 {
         s1.Owner(); //Method overridden
         s.car();
         f.fCar();
+        s1.fCar();
 
     }
 }
